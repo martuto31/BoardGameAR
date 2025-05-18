@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Princess" size="1.000000 1.390095" />
+    <ImageTarget name="Maid" size="1.000000 1.389951" />
+    <ImageTarget name="Baron" size="1.000000 1.358297" />
+    <ImageTarget name="Guard" size="1.000000 1.400213" />
+    <ImageTarget name="Priest" size="1.000000 1.362242" />
+  </Tracking>
+</QCARConfig>
